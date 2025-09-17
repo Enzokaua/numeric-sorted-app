@@ -1,4 +1,4 @@
-# APP - Aplicativo de sorteio
+# App - Aplicativo de sorteio (Android)
 
 Este projeto é a consolidação da interação com o android Studio, usando Java e Gradle para criação de APP's, expandindo meu conhecimento para multi-plataformas.
 
